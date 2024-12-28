@@ -1,0 +1,21 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "JR7SYJY7HQ.com.pic.clock"
+        ],
+        "components": [
+          {
+            "/": "/clip/*",
+            "comment": ""
+          },
+          {
+            "/": "/invite/*",
+            "comment": ""
+          }
+        ]
+      }
+    ]
+  }
+}
